@@ -1,3 +1,7 @@
+# Hey there, I'm Hitesh Dabi 👋
+
+---
+
 ## 🚀 Featured Project
 
 > **MERN Stack Online Learning Platform** — Full-stack web application featuring course modules, quizzes, and auto-generated PDF certificates built with MongoDB, Express.js, React, and Node.js.
