@@ -1,6 +1,6 @@
 ## 🚀 Featured Project
 
-**MERN Stack Online Learning Platform** — Full-stack web application featuring course modules, quizzes, and auto-generated PDF certificates built with MongoDB, Express.js, React, and Node.js.
+> **MERN Stack Online Learning Platform** — Full-stack web application featuring course modules, quizzes, and auto-generated PDF certificates built with MongoDB, Express.js, React, and Node.js.
 
 `MongoDB` `Express.js` `React` `Node.js` `JWT Auth` `PDF Generation`
 
@@ -37,12 +37,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hitesh-Dabi-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Dabi-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Dabi-27&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,4 +50,5 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hitesh-Dabi-27)
+![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-Dabi-27&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
