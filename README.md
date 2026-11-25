@@ -69,6 +69,12 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:hiteshdabi2731@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="tel:+919691819477">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209691819477-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
 <p align="center">
