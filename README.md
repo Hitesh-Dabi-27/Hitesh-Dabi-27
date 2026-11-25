@@ -1,37 +1,53 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hitesh%20Dabi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AIML&descAlignY=60&descSize=18" width="100%" />
-</div>
+## 🚀 Featured Project
 
-<!-- Dynamic Typing Effect -->
+**MERN Stack Online Learning Platform** — Full-stack web application featuring course modules, quizzes, and auto-generated PDF certificates built with MongoDB, Express.js, React, and Node.js.
+
+`MongoDB` `Express.js` `React` `Node.js` `JWT Auth` `PDF Generation`
+
+---
+
+## 🛠️ Languages & Tools
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Apps+(MERN);Solving+DSA+Problems+in+Java+%26+C%2B%2B;Exploring+AI%2C+ML+%26+Data+Analytics;Always+Shipping+%26+Iterating" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hitesh-Dabi-27&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <a href="mailto:hiteshdabi2731@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 👨‍💻 System Specs
+## 🌐 Connect with Me
 
-```java
-public class DevProfile {
-    String handle = "Hitesh-Dabi-27";
-    String[] languages = {"Java", "C++", "JavaScript", "SQL"};
-    String[] stack = {"MongoDB", "Express.js", "React.js", "Node.js"};
-    String[] analytics = {"Power BI", "Excel", "Power Query"};
-    String mindset = "Brute force -> Dry run -> Optimize";
-}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
