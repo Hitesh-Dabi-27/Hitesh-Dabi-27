@@ -21,7 +21,6 @@
 `MongoDB` `Express.js` `React` `Node.js` `JWT Auth` `PDF Generation`
 
 ---
-
 **Languages** <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2600&pause=12000&color=38BDF8&vCenter=true&width=700&height=34&lines=C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python+%7C+DSA" alt="Languages" />
 
