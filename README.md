@@ -22,19 +22,19 @@
 
 ---
 **Languages** <br>
-`C++` | `Java` | `JavaScript` | `Python` | `DSA`
+<font color="#38BDF8"><code>C++</code> | <code>Java</code> | <code>JavaScript</code> | <code>Python</code> | <code>DSA</code></font>
 
 **Frontend** <br>
-`HTML5` | `CSS3` | `React.js`
+<font color="#61DAFB"><code>HTML5</code> | <code>CSS3</code> | <code>React.js</code></font>
 
 **Backend** <br>
-`Node.js` | `Express.js`
+<font color="#4ADE80"><code>Node.js</code> | <code>Express.js</code></font>
 
 **Databases & Data** <br>
-`MongoDB` | `MySQL` | `NumPy` | `Pandas`
+<font color="#C084FC"><code>MongoDB</code> | <code>MySQL</code> | <code>NumPy</code> | <code>Pandas</code></font>
 
 **Tools & Platforms** <br>
-`Git` | `GitHub`
+<font color="#FB923C"><code>Git</code> | <code>GitHub</code></font>
 
 
 ---
