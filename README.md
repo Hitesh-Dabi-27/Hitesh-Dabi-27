@@ -1,6 +1,5 @@
 # Hey there, I'm Hitesh Dabi 👋
 
----
 
 ## 💫 About Me
 
