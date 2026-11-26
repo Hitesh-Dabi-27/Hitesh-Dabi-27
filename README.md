@@ -24,27 +24,27 @@
 
 **Languages**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hitesh-Dabi-27/Hitesh-Dabi-27/main/assets/languages.svg" alt="Languages" />
+  <img src="data:image/svg+xml,%3Csvg width='760' height='58' viewBox='0 0 760 58' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%2300599C'/%3E%3Cstop offset='25%25' stop-color='%23ED8B00'/%3E%3Cstop offset='50%25' stop-color='%23F7DF1E'/%3E%3Cstop offset='75%25' stop-color='%233776AB'/%3E%3Cstop offset='100%25' stop-color='%234B5563'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='760' height='58' rx='10' fill='%230D1117' stroke='%2330363D' stroke-width='1.5'/%3E%3Crect x='0' y='0' width='760' height='4' rx='2' fill='url(%23g)'/%3E%3Ctext x='380' y='36' text-anchor='middle' fill='%23E6EDF3' font-family='Fira Code, Consolas, monospace' font-size='16' font-weight='700'%3EC++ %E2%80%A2 Java %E2%80%A2 JavaScript %E2%80%A2 Python %E2%80%A2 DSA%3C/text%3E%3C/svg%3E" alt="Languages" />
 </p>
 
 **Frontend**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=61DAFB&vCenter=true&width=760&height=42&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+React" alt="Frontend" />
+  <img src="data:image/svg+xml,%3Csvg width='760' height='58' viewBox='0 0 760 58' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%23E34F26'/%3E%3Cstop offset='50%25' stop-color='%231572B6'/%3E%3Cstop offset='100%25' stop-color='%2361DAFB'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='760' height='58' rx='10' fill='%230D1117' stroke='%2330363D' stroke-width='1.5'/%3E%3Crect x='0' y='0' width='760' height='4' rx='2' fill='url(%23g)'/%3E%3Ctext x='380' y='36' text-anchor='middle' fill='%23E6EDF3' font-family='Fira Code, Consolas, monospace' font-size='16' font-weight='700'%3EHTML5 %E2%80%A2 CSS3 %E2%80%A2 React%3C/text%3E%3C/svg%3E" alt="Frontend" />
 </p>
 
 **Backend**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=6DA55F&vCenter=true&width=760&height=42&lines=Node.js+%E2%80%A2+Express.js" alt="Backend" />
+  <img src="data:image/svg+xml,%3Csvg width='760' height='58' viewBox='0 0 760 58' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%236DA55F'/%3E%3Cstop offset='100%25' stop-color='%2338BDF8'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='760' height='58' rx='10' fill='%230D1117' stroke='%2330363D' stroke-width='1.5'/%3E%3Crect x='0' y='0' width='760' height='4' rx='2' fill='url(%23g)'/%3E%3Ctext x='380' y='36' text-anchor='middle' fill='%23E6EDF3' font-family='Fira Code, Consolas, monospace' font-size='16' font-weight='700'%3ENode.js %E2%80%A2 Express.js%3C/text%3E%3C/svg%3E" alt="Backend" />
 </p>
 
 **Databases & Data**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=38BDF8&vCenter=true&width=760&height=42&lines=MongoDB+%E2%80%A2+MySQL+%E2%80%A2+NumPy+%E2%80%A2+Pandas" alt="Databases & Data" />
+  <img src="data:image/svg+xml,%3Csvg width='760' height='58' viewBox='0 0 760 58' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%234EA94B'/%3E%3Cstop offset='35%25' stop-color='%234479A1'/%3E%3Cstop offset='70%25' stop-color='%2338BDF8'/%3E%3Cstop offset='100%25' stop-color='%23A855F7'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='760' height='58' rx='10' fill='%230D1117' stroke='%2330363D' stroke-width='1.5'/%3E%3Crect x='0' y='0' width='760' height='4' rx='2' fill='url(%23g)'/%3E%3Ctext x='380' y='36' text-anchor='middle' fill='%23E6EDF3' font-family='Fira Code, Consolas, monospace' font-size='16' font-weight='700'%3EMongoDB %E2%80%A2 MySQL %E2%80%A2 NumPy %E2%80%A2 Pandas%3C/text%3E%3C/svg%3E" alt="Databases & Data" />
 </p>
 
 **Tools & Platforms**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=F05032&vCenter=true&width=760&height=42&lines=Git+%E2%80%A2+GitHub" alt="Tools & Platforms" />
+  <img src="data:image/svg+xml,%3Csvg width='760' height='58' viewBox='0 0 760 58' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%23F05032'/%3E%3Cstop offset='100%25' stop-color='%2338BDF8'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='760' height='58' rx='10' fill='%230D1117' stroke='%2330363D' stroke-width='1.5'/%3E%3Crect x='0' y='0' width='760' height='4' rx='2' fill='url(%23g)'/%3E%3Ctext x='380' y='36' text-anchor='middle' fill='%23E6EDF3' font-family='Fira Code, Consolas, monospace' font-size='16' font-weight='700'%3EGit %E2%80%A2 GitHub%3C/text%3E%3C/svg%3E" alt="Tools & Platforms" />
 </p>
 ---
 
