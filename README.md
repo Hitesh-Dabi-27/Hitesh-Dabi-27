@@ -22,23 +22,20 @@
 
 ---
 
-**Languages :-**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E6EDF3&vCenter=true&width=680&height=30&lines=C%2B%2B+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+DSA" alt="Languages" />
+**Languages :-** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E6EDF3&vCenter=true&width=680&height=34&lines=C%2B%2B+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+DSA" alt="Languages" />
 
-**Skills :-**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&vCenter=true&width=760&height=30&lines=Full-Stack+(MERN)+%E2%80%A2+Frontend+(React.js)+%E2%80%A2+Data+Analytics+(Power+BI%2C+Excel)+%E2%80%A2+Git+%E2%80%A2+GitHub" alt="Skills" />
+**Frontend :-** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=61DAFB&vCenter=true&width=680&height=34&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+React" alt="Frontend" />
 
-**Frontend :-**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=61DAFB&vCenter=true&width=680&height=30&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+React" alt="Frontend" />
+**Backend :-** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=6DA55F&vCenter=true&width=680&height=34&lines=Node.js+%E2%80%A2+Express.js" alt="Backend" />
 
-**Backend :-**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=6DA55F&vCenter=true&width=680&height=30&lines=Node.js+%E2%80%A2+Express.js" alt="Backend" />
+**Databases & Data :-** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&vCenter=true&width=680&height=34&lines=MongoDB+%E2%80%A2+MySQL+%E2%80%A2+NumPy+%E2%80%A2+Pandas" alt="Databases & Data" />
 
-**Databases & Data :-**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&vCenter=true&width=680&height=30&lines=MongoDB+%E2%80%A2+MySQL+%E2%80%A2+NumPy+%E2%80%A2+Pandas" alt="Databases & Data" />
-
-**Tools & Platforms :-**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F05032&vCenter=true&width=680&height=30&lines=Git+%E2%80%A2+GitHub" alt="Tools & Platforms" />
+**Tools & Platforms :-** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F05032&vCenter=true&width=680&height=34&lines=Git+%E2%80%A2+GitHub" alt="Tools & Platforms" />
 ---
 
 ## 📊 GitHub Stats
