@@ -1,0 +1,20 @@
+<svg width="760" height="58" viewBox="0 0 760 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sweep5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F05032" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <clipPath id="clip5">
+      <rect x="0" y="0" width="760" height="58" rx="10">
+        <animate attributeName="width" from="0" to="760" dur="1.4s" begin="1s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip5)">
+    <rect x="0" y="0" width="760" height="58" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+    <rect x="0" y="0" width="760" height="4" fill="url(#sweep5)" />
+    <text x="380" y="36" text-anchor="middle" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700">
+      Git   •   GitHub
+    </text>
+  </g>
+</svg>
