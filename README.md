@@ -1,7 +1,7 @@
 # Hey there, I'm Hitesh Dabi 👋
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=38BDF8&multiline=true&vCenter=true&width=720&height=70&lines=Turning+ideas+into+clean+code+%26+real+products;Always+learning%2C+building+%26+leveling+up" alt="Animated Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=250&color=38BDF8&multiline=true&vCenter=true&width=720&height=70&lines=Turning+ideas+into+clean+code+%26+real+products;Always+learning%2C+building+%26+leveling+up" alt="Animated Tagline" />
 </div>
 
 
