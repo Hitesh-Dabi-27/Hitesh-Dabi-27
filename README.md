@@ -22,19 +22,30 @@
 
 ---
 **Languages** <br>
-<font color="#38BDF8"><code>C++</code> | <code>Java</code> | <code>JavaScript</code> | <code>Python</code> | <code>DSA</code></font>
+![C++](https://img.shields.io/badge/C%2B%2B-38BDF8?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-38BDF8?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-38BDF8?style=flat-square&logoColor=111827)
+![DSA](https://img.shields.io/badge/DSA-38BDF8?style=flat-square&logoColor=111827)
 
 **Frontend** <br>
-<font color="#61DAFB"><code>HTML5</code> | <code>CSS3</code> | <code>React.js</code></font>
+![HTML5](https://img.shields.io/badge/HTML5-61DAFB?style=flat-square&logoColor=111827)
+![CSS3](https://img.shields.io/badge/CSS3-61DAFB?style=flat-square&logoColor=111827)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logoColor=111827)
 
 **Backend** <br>
-<font color="#4ADE80"><code>Node.js</code> | <code>Express.js</code></font>
+![Node.js](https://img.shields.io/badge/Node.js-4ADE80?style=flat-square&logoColor=111827)
+![Express.js](https://img.shields.io/badge/Express.js-4ADE80?style=flat-square&logoColor=111827)
 
 **Databases & Data** <br>
-<font color="#C084FC"><code>MongoDB</code> | <code>MySQL</code> | <code>NumPy</code> | <code>Pandas</code></font>
+![MongoDB](https://img.shields.io/badge/MongoDB-C084FC?style=flat-square&logoColor=111827)
+![MySQL](https://img.shields.io/badge/MySQL-C084FC?style=flat-square&logoColor=111827)
+![NumPy](https://img.shields.io/badge/NumPy-C084FC?style=flat-square&logoColor=111827)
+![Pandas](https://img.shields.io/badge/Pandas-C084FC?style=flat-square&logoColor=111827)
 
 **Tools & Platforms** <br>
-<font color="#FB923C"><code>Git</code> | <code>GitHub</code></font>
+![Git](https://img.shields.io/badge/Git-FB923C?style=flat-square&logoColor=111827)
+![GitHub](https://img.shields.io/badge/GitHub-FB923C?style=flat-square&logoColor=111827)
 
 ---
 
