@@ -2,6 +2,15 @@
 
 ---
 
+## 💫 About Me
+
+- 🔭 Currently pursuing **B.Tech in CSE (AIML)** at RGPV University (2027 Batch)
+- 💻 Ex-Frontend Developer Intern at **Gwing Software Technologies**, building scalable UIs with **React.js** & **MERN Stack**
+- 🧠 Practicing **Data Structures & Algorithms** in **Java & C++** on LeetCode
+- 📊 Interested in **Full-Stack Web Development**, **Data Analytics (Power BI/Excel)**, and **AI/ML**
+
+---
+
 ## 🚀 Featured Project
 
 **MERN Stack Online Learning Platform** An academic project featuring course modules, quizzes, and auto-generated PDF certificates — built end-to-end with a Node/Express backend, MongoDB, and a React frontend with protected routes and auth context.
@@ -17,6 +26,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 **Frontend**
@@ -35,15 +45,18 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
-**Databases**
+**Databases & Data Science**
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 **Tools & Platforms**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
