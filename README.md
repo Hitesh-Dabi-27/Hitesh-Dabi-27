@@ -35,6 +35,10 @@
 
 **Tools & Platforms** <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=4500&pause=1000&color=FB923C&vCenter=true&width=700&height=34&lines=Git+%7C+GitHub" alt="Tools & Platforms" />
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=4500&pause=1000&color=38BDF8&multiline=true&vCenter=true&width=760&height=180&lines=Languages%3A+C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python+%7C+DSA;Frontend%3A+HTML5+%7C+CSS3+%7C+React.js;Backend%3A+Node.js+%7C+Express.js;Databases+%26+Data%3A+MongoDB+%7C+MySQL+%7C+NumPy+%7C+Pandas;Tools+%26+Platforms%3A+Git+%7C+GitHub" alt="Tech Stack Sequence" />
+</p>
 ---
 
 ## 📊 GitHub Stats
