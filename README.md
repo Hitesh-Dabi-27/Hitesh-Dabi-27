@@ -1,4 +1,6 @@
-# Hey there, I'm Hitesh Dabi 👋
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&vCenter=true&width=650&lines=Hey+there%2C+I'm+Hitesh+Dabi+%F0%9F%91%8B;B.Tech+CSE+(AIML)+'27+%7C+RGPV;Full-Stack+(MERN)+%26+Java+DSA" alt="Typing SVG" />
+</div>
 
 
 ## 💫 About Me
