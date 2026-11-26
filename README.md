@@ -22,27 +22,27 @@
 
 ---
 
-**Languages**
+**Languages :-**
 
 | `C++` • `Java` • `JavaScript` • `Python` • `DSA` |
 | :---: |
 
-**Frontend**
+**Frontend :-**
 
 | `HTML5` • `CSS3` • `React` |
 | :---: |
 
-**Backend**
+**Backend :-**
 
 | `Node.js` • `Express.js` |
 | :---: |
 
-**Databases & Data**
+**Databases & Data :-**
 
 | `MongoDB` • `MySQL` • `NumPy` • `Pandas` |
 | :---: |
 
-**Tools & Platforms**
+**Tools & Platforms :-**
 
 | `Git` • `GitHub` |
 | :---: |
