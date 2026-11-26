@@ -36,7 +36,6 @@
 **Tools & Platforms** <br>
 <font color="#FB923C"><code>Git</code> | <code>GitHub</code></font>
 
-
 ---
 
 ## 📊 GitHub Stats
