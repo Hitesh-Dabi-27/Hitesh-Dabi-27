@@ -23,6 +23,16 @@
 ---
 
 ## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&vCenter=true&width=520&height=32&lines=Full-Stack+MERN+%7C+Java+%26+C+++DSA;Data+Tools+(NumPy%2C+Pandas%2C+MySQL)+%26+Git" alt="Stack Focus" />
+</p>
+
+**Languages**
+<p align="center">
+  ...
+</p>
 
 **Languages**
 <p align="center">
