@@ -1,0 +1,22 @@
+<svg width="760" height="58" viewBox="0 0 760 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sweep4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4EA94B" />
+      <stop offset="35%" stop-color="#4479A1" />
+      <stop offset="70%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+    <clipPath id="clip4">
+      <rect x="0" y="0" width="760" height="58" rx="10">
+        <animate attributeName="width" from="0" to="760" dur="1.4s" begin="0.75s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip4)">
+    <rect x="0" y="0" width="760" height="58" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+    <rect x="0" y="0" width="760" height="4" fill="url(#sweep4)" />
+    <text x="380" y="36" text-anchor="middle" fill="#E6EDF3" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700">
+      MongoDB   •   MySQL   •   NumPy   •   Pandas
+    </text>
+  </g>
+</svg>
