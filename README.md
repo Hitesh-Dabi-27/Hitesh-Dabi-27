@@ -22,30 +22,15 @@
 
 ---
 
-**Languages :-**
+**Languages :-** `C++` • `Java` • `JavaScript` • `Python` • `DSA`
 
-| `C++` • `Java` • `JavaScript` • `Python` • `DSA` |
-| :---: |
+**Frontend :-** `HTML5` • `CSS3` • `React`
 
-**Frontend :-**
+**Backend :-** `Node.js` • `Express.js`
 
-| `HTML5` • `CSS3` • `React` |
-| :---: |
+**Databases & Data :-** `MongoDB` • `MySQL` • `NumPy` • `Pandas`
 
-**Backend :-**
-
-| `Node.js` • `Express.js` |
-| :---: |
-
-**Databases & Data :-**
-
-| `MongoDB` • `MySQL` • `NumPy` • `Pandas` |
-| :---: |
-
-**Tools & Platforms :-**
-
-| `Git` • `GitHub` |
-| :---: |
+**Tools & Platforms :-** `Git` • `GitHub`
 ---
 
 ## 📊 GitHub Stats
