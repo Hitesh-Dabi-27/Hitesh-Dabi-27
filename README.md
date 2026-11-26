@@ -1,82 +1,42 @@
-# Hey there, I'm Hitesh Dabi 👋
-
----
-
-## 🚀 Featured Project
-
-**MERN Stack Online Learning Platform** An academic project featuring course modules, quizzes, and auto-generated PDF certificates — built end-to-end with a Node/Express backend, MongoDB, and a React frontend with protected routes and auth context.
-
-`MongoDB` `Express.js` `React` `Node.js` `JWT Auth` `PDF Generation`
-
----
-
-## 🛠️ Languages & Tools
-
-**Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-**Frontend**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Backend**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
-
-**Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-**Tools & Platforms**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=160&section=header&text=Hitesh%20Dabi&fontSize=52&fontColor=58A6FF&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full-Stack%20(MERN)%20%7C%20Java%20%26%20Data%20Analytics&descAlignY=72&descSize=17&descColor=8B949E" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hitesh-Dabi-27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Dabi-27&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Dabi-27&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Engineering+Scalable+Full-Stack+Web+Apps+(MERN);Solving+Algorithmic+Problems+in+Java+%26+C%2B%2B;Turning+Raw+Data+into+Actionable+BI+Dashboards;B.Tech+CSE+(AIML)+%7C+Class+of+2027" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Contact & Quick Links -->
+<p align="center">
   <a href="mailto:hiteshdabi2731@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-hiteshdabi2731%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="tel:+919691819477">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://wa.me/919691819477" target="_blank">
     <img src="https://img.shields.io/badge/Phone-%2B91%209691819477-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Hitesh-Dabi-27&label=Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hitesh-Dabi-27&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+---
+
+### 👨‍💻 Engineering Snapshot
+
+```java
+public final class HiteshDabi {
+    private final String role        = "Software Development Engineer (SDE)";
+    private final String experience  = "Frontend Developer Intern @ Gwing Software Technologies";
+    private final String education   = "B.Tech in CSE (AIML) — RGPV University (2023–2027)";
+    private final String[] languages = {"Java", "C++", "JavaScript", "SQL", "Python"};
+    private final String[] fullStack = {"React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"};
+    private final String[] analytics = {"Power BI", "Microsoft Excel", "Power Query"};
+    private final String focus       = "Clean Architecture • DSA • Full-Stack • Data Insights";
+}
