@@ -29,22 +29,22 @@
 
 **Frontend**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hitesh-Dabi-27/Hitesh-Dabi-27/main/assets/frontend.svg" alt="Frontend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=61DAFB&vCenter=true&width=760&height=42&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+React" alt="Frontend" />
 </p>
 
 **Backend**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hitesh-Dabi-27/Hitesh-Dabi-27/main/assets/backend.svg" alt="Backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=6DA55F&vCenter=true&width=760&height=42&lines=Node.js+%E2%80%A2+Express.js" alt="Backend" />
 </p>
 
 **Databases & Data**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hitesh-Dabi-27/Hitesh-Dabi-27/main/assets/databases.svg" alt="Databases & Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=38BDF8&vCenter=true&width=760&height=42&lines=MongoDB+%E2%80%A2+MySQL+%E2%80%A2+NumPy+%E2%80%A2+Pandas" alt="Databases & Data" />
 </p>
 
 **Tools & Platforms**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hitesh-Dabi-27/Hitesh-Dabi-27/main/assets/tools.svg" alt="Tools & Platforms" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=F05032&vCenter=true&width=760&height=42&lines=Git+%E2%80%A2+GitHub" alt="Tools & Platforms" />
 </p>
 ---
 
