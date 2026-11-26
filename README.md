@@ -22,20 +22,20 @@
 
 ---
 
-**Languages :-** <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E6EDF3&vCenter=true&width=680&height=34&lines=C%2B%2B+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+DSA" alt="Languages" />
+**Languages** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=38BDF8&vCenter=true&width=700&height=34&lines=C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python+%7C+DSA" alt="Languages" />
 
-**Frontend :-** <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=61DAFB&vCenter=true&width=680&height=34&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+React" alt="Frontend" />
+**Frontend** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=61DAFB&vCenter=true&width=700&height=34&lines=HTML5+%7C+CSS3+%7C+React.js" alt="Frontend" />
 
-**Backend :-** <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=6DA55F&vCenter=true&width=680&height=34&lines=Node.js+%E2%80%A2+Express.js" alt="Backend" />
+**Backend** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=4ADE80&vCenter=true&width=700&height=34&lines=Node.js+%7C+Express.js" alt="Backend" />
 
-**Databases & Data :-** <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&vCenter=true&width=680&height=34&lines=MongoDB+%E2%80%A2+MySQL+%E2%80%A2+NumPy+%E2%80%A2+Pandas" alt="Databases & Data" />
+**Databases & Data** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=C084FC&vCenter=true&width=700&height=34&lines=MongoDB+%7C+MySQL+%7C+NumPy+%7C+Pandas" alt="Databases & Data" />
 
-**Tools & Platforms :-** <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F05032&vCenter=true&width=680&height=34&lines=Git+%E2%80%A2+GitHub" alt="Tools & Platforms" />
+**Tools & Platforms** <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=FB923C&vCenter=true&width=700&height=34&lines=Git+%7C+GitHub" alt="Tools & Platforms" />
 ---
 
 ## 📊 GitHub Stats
