@@ -1,4 +1,4 @@
-# Hey there, I'm Hitesh Dabi 👋
+# Hi there, I'm Hitesh Dabi 👋
 
 <div align="left">
 <div align="left">
